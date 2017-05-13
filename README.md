@@ -1,4 +1,3 @@
-# EYE-FOR-THE-BLIND
 ## Prepare Datasets
 
 Make sure to download and convert the data format from the MNIST website. 
